@@ -1,6 +1,6 @@
 # Machine Learning Development Lifecycle (MDLC) and Governance: A Comprehensive Guide
 
-*Author: Kiran Ghanta | Date: February 11, 2026*
+*Author: Kiran Reddy | Date: February 11, 2026*
 
 ---
 
