@@ -1,6 +1,6 @@
 # Claude Agent Skills: A Comprehensive Guide to Building Intelligent AI Agents
 
-**Author:** Kiran Ghanta | **Date:** February 11, 2026
+**Author:** Kiran Reddy | **Date:** February 11, 2026
 
 ---
 
@@ -825,7 +825,7 @@ The agent ecosystem is rapidly evolving:
 
 ## About the Author
 
-**Kiran Ghanta** is an AI enthusiast and technology professional with expertise in machine learning operations, data engineering, and AI agent development. This blog is part of the ai-learnings repository dedicated to sharing knowledge about artificial intelligence and machine learning best practices.
+**Kiran Reddy** is an AI enthusiast and technology professional with expertise in machine learning operations, data engineering, and AI agent development. This blog is part of the ai-learnings repository dedicated to sharing knowledge about artificial intelligence and machine learning best practices.
 
 For more AI and ML resources, visit the [RESOURCES.md](../RESOURCES.md) file in this repository.
 
