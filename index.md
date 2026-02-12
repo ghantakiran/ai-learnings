@@ -72,7 +72,7 @@ Explore our in-depth articles on cutting-edge AI topics:
 - Enterprise data operations at scale
 - Risk management and security operations
 
-With experience at leading financial institutions including JP Morgan Chase and Bank of America, Kiran brings a unique perspective combining cutting-edge AI research with practical enterprise deployment experience.
+Kiran brings a unique perspective combining cutting-edge AI research with practical enterprise deployment experience.
 
 ## Getting Started
 
