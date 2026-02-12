@@ -1,0 +1,60 @@
+# Site settings
+title: AI Learnings by Kiran Reddy
+description: Repository for AI learning materials, research papers, tutorials, and documentation on artificial intelligence, machine learning, and agentic AI systems
+author: Kiran Reddy
+email: kiran@example.com
+baseurl: ""
+url: "https://ghantakiran.github.io/ai-learnings"
+
+# Build settings
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Collections
+collections:
+  blog:
+    output: true
+    permalink: /blog/:title/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "blog"
+    values:
+      layout: "post"
+      author: "Kiran Reddy"
+
+# Navigation
+header_pages:
+  - index.md
+  - blog.md
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .gitignore
+  - LICENSE
+
+# Syntax highlighting
+highlighter: rouge
+
+# Pagination
+paginate: 10
+paginate_path: "/blog/page:num/"
+
+# SEO
+social:
+  name: Kiran Reddy
+  links:
+    - https://github.com/ghantakiran
