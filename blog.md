@@ -68,8 +68,7 @@ Financial trading, risk management, security operations
 
 ## About the Author
 
-**Kiran Reddy** writes about AI/ML systems, agentic architectures, and enterprise deployment patterns. With experience at JP Morgan Chase and Bank of America, he brings practical insights on building production-grade AI systems.
-
+**Kiran Reddy** writes about AI/ML systems, agentic architectures, and enterprise deployment patterns. He brings practical insights on building production-grade AI systems.
 ---
 
 [← Back to Home](/)
