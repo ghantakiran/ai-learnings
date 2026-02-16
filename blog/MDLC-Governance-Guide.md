@@ -409,7 +409,7 @@ By implementing the MDLC framework with comprehensive governance, organizations 
 
 ## About the Author
 
-**Kiran Ghanta** is an AI enthusiast and technology professional with expertise in machine learning operations, data engineering, and AI governance. This blog is part of the ai-learnings repository dedicated to sharing knowledge about artificial intelligence and machine learning best practices.
+**Kiran Reddy** is an AI enthusiast and technology professional with expertise in machine learning operations, data engineering, and AI governance. This blog is part of the ai-learnings repository dedicated to sharing knowledge about artificial intelligence and machine learning best practices.
 
 ---
 
